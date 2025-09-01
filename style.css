@@ -1,0 +1,13 @@
+*{
+    padding: auto;
+    margin: auto;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1{
+    color:blue; 
+    text-align: center;
+}
